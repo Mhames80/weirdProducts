@@ -1,0 +1,42 @@
+{
+  "companyName" : "Weird Stuff Inc",
+  "headOffice" : "Barrie ontario",
+  "established" : 2019,
+  "active" : true,
+  "weirdProducts" : [
+    {
+      "name" : "A Godzilla garden gnome",
+      "price" : "$24.99",
+      "description" : "Let those pesky, roving neighborhood gnomes know where they're not welcome.",
+      "image" : "godzilla.jpg"
+    },
+
+    {
+      "name" : "Dill pickle lip balm",
+      "price" : "$11.95",
+      "description" : "Some people want their mouths to be minty fresh, or sweetly scented. And others just want their lips to have the distinct flavor of something that might accompany a pastrami sandwich.",
+      "image" : "dillPickle.jpg"
+    },
+
+    {
+      "name" : "Roast beef bath soak",
+      "price" : "$17.95",
+      "description" : "The only thing more relaxing than a warm bath is a warm bath full of au jus.",
+      "image" : "roast.jpg"
+    },
+
+    {
+      "name" : "A fish pencil case",
+      "price" : "$3.97",
+      "description" : "Not every kid is eager to go to school with a Hello Kitty pencil case. Sometimes, you just want to stick your writing instruments into the belly of a very realistic-looking fish.",
+      "image" : "fish.jpg"
+    },
+
+    {
+      "name" : "A pound of replica human fat",
+      "price" : "$23.73",
+      "description" : "If you've ever needed a means of convincing yourself not to go back for seconds, this rubbery pound of replica fat is sure to do the trick.",
+      "image" : "fat.jpg"
+    }
+  ]
+}
